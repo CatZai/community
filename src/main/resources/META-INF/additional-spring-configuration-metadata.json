@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "flyway.enable",
+      "type": "java.lang.String",
+      "description": "Description for flyway.enable."
+    },
+    {
+      "name": "flyway.setBaselineOnMigrate(true)",
+      "type": "java.lang.String",
+      "description": "Description for flyway.setBaselineOnMigrate(true)."
+    }
+  ] }

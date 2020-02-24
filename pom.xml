@@ -77,9 +77,10 @@
                 <artifactId>flyway-maven-plugin</artifactId>
                 <version>6.2.3</version>
                 <configuration>
-                    <url>jdbc:h2:C:/demo</url>
+                    <url>jdbc:h2:C:/code/community</url>
                     <user>sa</user>
                     <password>123</password>
+
                 </configuration>
                 <dependencies>
                     <dependency>
